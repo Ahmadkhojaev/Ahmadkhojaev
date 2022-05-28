@@ -43,8 +43,7 @@
 <div>
  <br/>
 
-[![Wahid's Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmadkhojaev&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
-
+[![Abboskhon's Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahmadkhojaev&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![](https://komarev.com/ghpvc/?username=ahmadkhojaev&color=orange&label=Profile%20Views)](https://github.com/ahmadkhojaev/ahmadkhojaev)
 [![](https://img.shields.io/github/followers/ahmadkhojaev?label=GitHub%20Followers)](https://github.com/ahmadkhojaev)
 
