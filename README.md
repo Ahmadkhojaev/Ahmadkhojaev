@@ -1,4 +1,4 @@
-<a href="https://t.me/abbosxon_ahmadxojayev"><img src="memoji.png" align="right" height="200"/></a>
+<a href="https://t.me/abbosxon_ahmadxojayev"><img src="abboskhon-emoji.png" align="right" height="200"/></a>
 
 # Hi there, I'm Abboskhon 👋
 
