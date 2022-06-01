@@ -15,6 +15,8 @@
 
 <h1> 👨🏻‍💻 Me now </h1>
 
+<p><img align="right"src="https://i.pinimg.com/originals/68/45/e3/6845e3e3b96d3ccb85dcbb9880351074.gif" width="250" height="250" </img></p>
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Student at Tashkent University of Information Technologies.
 - ⌛️ &nbsp; Currently I'm busy with:
