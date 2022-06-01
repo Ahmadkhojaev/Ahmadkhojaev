@@ -1,3 +1,4 @@
+<p align="center" ><img align="center"src="https://trynetsolutions.com/TS/software.gif" width="550" height="350">
 <a href="https://t.me/abbosxon_ahmadxojayev"><img src="abboskhon-emoji.png" align="right" height="250"/></a>
 
 # Hi there, I'm Abboskhon 👋
