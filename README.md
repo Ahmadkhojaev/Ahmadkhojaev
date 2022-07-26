@@ -38,7 +38,13 @@
 <br/>
 
 <h1>Me Stats</h1>
-![](https://raw.githubusercontent.com/ahmadkhojaev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div align="center">
+<a href="">
+  <img align="center" src="https://raw.githubusercontent.com/ahmadkhojaev/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+<a />
+<div>
+ <br/>
+
 <div align="center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadkhojaev&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
