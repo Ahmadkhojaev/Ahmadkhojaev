@@ -32,7 +32,7 @@
 - 💻 &nbsp; `.c` | `.cpp` | `.cs` | `.py` | `.sh` | `.java` | `.html` | `.css` | `.js`
 - 🌐 &nbsp; .NET 6/5 | MVC | Blazor | WebApi
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
-- 🛢 &nbsp; SqlServer 
+- 🛢 &nbsp; SqlServer | SqLite
 - ⚙️ &nbsp; Git | Bash | Docker | docker-compose | Github Actions
 
 <br/>
