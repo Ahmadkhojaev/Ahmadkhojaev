@@ -38,12 +38,6 @@
 <br/>
 
 <h1>Me Stats</h1>
-<div align="center">
-<a href="">
-  <img align="center" src="https://raw.githubusercontent.com/ahmadkhojaev/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-<a />
-<div>
- <br/>
 
 <div align="center">
 <a href="">
