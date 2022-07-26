@@ -38,7 +38,7 @@
 <br/>
 
 <h1>Me Stats</h1>
-
+![](https://raw.githubusercontent.com/ahmadkhojaev/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 <div align="center">
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadkhojaev&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
@@ -51,20 +51,3 @@
   [![](https://komarev.com/ghpvc/?username=ahmadkhojaev&color=orange&label=Profile%20Views)](https://github.com/ahmadkhojaev/ahmadkhojaev)
 [![](https://img.shields.io/github/followers/ahmadkhojaev?label=GitHub%20Followers)](https://github.com/ahmadkhojaev)
 
-<!--
-**shukhratutaboev/shukhratutaboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!---
-Ahmadkhojaev/Ahmadkhojaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
