@@ -3,7 +3,7 @@
 
 # Hi there, I'm Abboskhon 👋
 
-> A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A loving son to a loving mother.
+> A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A loving son to a loving mother .
 <br/><br/><br/>
 <p align="end">
 <a href="https://dev.to/ahmadkhojaev"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
