@@ -5,7 +5,7 @@
 
 > A software engineer building awesome web back/front stuff using .NET tech-stack at `Ilmhub`. A loving son to a loving mother.
 <br/><br/><br/>
-Follow on LinkedIn (https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ahmadkhojaev).libutton { display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: "SF Pro Text", Helvetica, sans-serif; }
+
 <p align="end">
 <a href="https://dev.to/ahmadkhojaev"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
 <a href="https://www.linkedin.com/in/ahmadkhojaev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
